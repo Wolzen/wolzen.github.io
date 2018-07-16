@@ -41,6 +41,8 @@ ul, ol {
 
 
 }
-img {
-	
+img, iframe, a {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
