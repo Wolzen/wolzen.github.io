@@ -1,7 +1,31 @@
+html {
+	background: url("flower.jpg");
+	font-family: cursive;
+
+}
 a {
-	font-family: Arial;
+	
 	font-size: 20px;
 	color: teal;
 	text-transform: uppercase;
 	text-align: center;
+}
+p {
+	
+	font-size: 25px;
+	color: darkcyan;
+	text-transform: lowercase;
+	text-align: center;
+}
+h1 {
+	color:darkslategray;
+	font-family: cursive;
+
+}
+h3 {
+	color:cadetblue;
+}
+.toplinks a{
+	color: darkblue;
+
 }
