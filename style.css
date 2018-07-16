@@ -12,7 +12,7 @@ a {
 }
 p {
 	
-	font-size: 25px;
+	font-size: 20px;
 	color: darkcyan;
 	text-transform: lowercase;
 	text-align: center;
@@ -20,12 +20,27 @@ p {
 h1 {
 	color:darkslategray;
 	font-family: cursive;
+	text-align: center;
 
+}
+h2 {
+	text-align: center;
+	color: slategray;
 }
 h3 {
 	color:cadetblue;
+	text-align: center;
+}
+ul, ol {
+	text-align: center;
+	color:slategray;
 }
 .toplinks a{
 	color: darkblue;
+	width: 100px;
 
+
+}
+img {
+	
 }
